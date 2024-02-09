@@ -1,2 +1,2 @@
-# PyVLC1
+# PyVLC
 A VLC but in Python
